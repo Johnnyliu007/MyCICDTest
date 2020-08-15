@@ -7,6 +7,6 @@
 <title>我的第一个JSP文件</title>
 </head>
 <body>
-	<h3>这是我的第一个JSP文件...</h3>
+	<h3>这是我的第 1 个JSP文件...</h3>
 </body>
 </html>
